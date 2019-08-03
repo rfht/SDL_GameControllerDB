@@ -1,0 +1,4 @@
+# the following gamepads all fall under the X360 Controller GUID/mapping:
+# Logitech F310 Gamepad (XInput)
+47616d655f5061642028302900000000,X360 Controller
+4a6f79737469636b2028302900000000,Logitech Dual Action
